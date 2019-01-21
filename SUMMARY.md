@@ -4,6 +4,8 @@
 
 
 ### Getting Started
+
+* [About this documentation](README.md)
 * [Matériel](materiel.md)
 * [Installation](installation.md)
 * [Docker](docker.md)
