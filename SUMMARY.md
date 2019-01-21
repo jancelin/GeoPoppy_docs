@@ -1,10 +1,12 @@
 # Table of contents
 
-![geo-poppy-wiki](part1/geopoppy_schema_1.png)
+![geo-poppy-wiki](docs/images/geopoppy_schema_1.png)
 
 
-* [1. Matériel](part1/1.--Mat%C3%A9riel.md)
-* [2. Installation](part1/2.-Installation.md)
+* [Part I](part1/README.md)
+  * [Matériel](part1/materiel.md)
+  * [Installation](part1/installation.md)
+  * [Docker](docker.md)
 * 3 . Paramétrage
    * [3.1. Construction de la base de données](part1/3.1.-Construction-de-la-base-de-donn%C3%A9es.md)
    * [3.2. Intégration des données en base depuis QGIS](part1/3.2.-Int%C3%A9gration-des-donn%C3%A9es-en-base-depuis-QGIS.md)
