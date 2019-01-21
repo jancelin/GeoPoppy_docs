@@ -2,14 +2,14 @@
 **GeoPoppy est un outil numérique OpenSource LowCost pour l'acquisition et la consultation de données géolocalisées**
 
 
-![geo-poppy]https://raw.githubusercontent.com/jancelin/GeoPoppy_docs/master/docs/images/geopoppy_2.png)
+![geo-poppy](img/geopoppy_2.png)
 
 [![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com?stack=https://raw.githubusercontent.com/jancelin/geo-poppy/master/windowsTablette/docker-compose.yml)
 
 **![Lien vers la procédure d'installation sur Raspberry pi 3](https://github.com/jancelin/geo-poppy/wiki/2.-Installation)**
 
 
-![geo-poppy](https://github.com/jancelin/GeoPoppy_docs/master/docsimages/1.png?raw=true)
+![geo-poppy](img/1.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 **Programmes:**
 
-![geo-poppy]https://raw.githubusercontent.com/jancelin/GeoPoppy_docs/master/docs/images/docker_container.png)
+![geo-poppy](img/docker_container.png)
 
 
 * Ce projet est monté sur linux Debian avec Docker pour les containers logiciels. L'image créée par Hypriot intègre directement les deux:
@@ -56,7 +56,7 @@ ______________________________________________________________________
 
 Comment le fabriquer ?
 
-![geo-poppy]https://raw.githubusercontent.com/jancelin/GeoPoppy_docs/master/docs/images/geopoppy_schema_2.png)
+![geo-poppy](img/geopoppy_schema_2.png)
 
 Méthode rapide pour Rasberry Pi 3
 
@@ -68,4 +68,4 @@ ____________________________________________________________________________
 Julien ANCELIN / UE INRA de Saint Laurent de la Prée
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
- ![INRA](https://github.com/jancelin/GeoPoppy_docs/master/docsimages/INRA_logo_small.jpg)
+ ![INRA](img/INRA_logo_small.jpg)
